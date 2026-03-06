@@ -14,3 +14,9 @@ geometries that achieve target spectral characteristics, reducing reliance on co
 consistency and competitive design accuracy.
 
 If you use this code, please cite: Torabi, Y., Ekhteraei, A., & Khajezadeh, M. (2026). Physics-Informed Graph Neural Network for Inverse Design of Integrated Photonic Biosensors. ArXiv. https://arxiv.org/abs/2602.19082
+
+![Physics-Informed Graph Neural Network (PI-GNN). (b) Forward stage, consisting of a linear node
+embedding layer, two message-passing layers (T=2), sum aggregation, global mean pooling, and a multilayer
+perceptron (MLP) output head. (c) Inverse stage, combining
+data loss on predicted quantities with a physics-informed loss.](fig1.png)
+
